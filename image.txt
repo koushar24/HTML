@@ -1,0 +1,10 @@
+<html>
+<head>
+<title> HTML FOR IMAGES </title>
+</head>
+<body>
+<h1> WELCOME </h1><br>
+<a href="https://www.w3schools.com">Visit W3Schools</a><br>
+<img src="https://w0.peakpx.com/wallpaper/138/491/HD-wallpaper-kim-taehyung-v-bts-nose-jaw.jpg"><br>
+</body>
+</html>
